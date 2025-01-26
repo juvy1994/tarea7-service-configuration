@@ -1,0 +1,8 @@
+# Ignorar todos los archivos .log
+*.log
+
+# Ignorar el directorio `temp`
+temp/
+
+# Ignorar todos los archivos `json`
+*.json
